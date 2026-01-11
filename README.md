@@ -38,14 +38,14 @@ Open your browser and go to the local server address (usually http://localhost:3
 
 Type your queries in the input box and get responses from the chatbot 💡
 
-🧰 Technologies Used
-Frontend: HTML, CSS, JavaScript
+## 🧰 Technologies Used
+- Frontend: HTML, CSS, JavaScript
 
-Backend: Node.js / Express (if applicable)
+- Backend: Node.js / Express (if applicable)
 
-AI/ML: OpenAI API or other generative AI framework
+- AI/ML: OpenAI API or other generative AI framework
 
-Version Control: Git & GitHub
+- Version Control: Git & GitHub
 
 📁 Project Structure
 ```css
@@ -56,9 +56,8 @@ Project_1_Chatbot/
 ├── README.md
 └── assets/
     └── images/
-    ```
-    
-🤝 Contribution
+
+## 🤝 Contribution
 Contributions are welcome!
 
 Fork the repository 🍴
