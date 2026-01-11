@@ -49,7 +49,6 @@ Version Control: Git & GitHub
 
 📁 Project Structure
 ```css
-Copy code
 Project_1_Chatbot/
 ├── index.html
 ├── style.css
@@ -58,6 +57,7 @@ Project_1_Chatbot/
 └── assets/
     └── images/
     ```
+    
 🤝 Contribution
 Contributions are welcome!
 
