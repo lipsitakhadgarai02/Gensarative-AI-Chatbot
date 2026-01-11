@@ -47,7 +47,8 @@ Type your queries in the input box and get responses from the chatbot 💡
 
 - Version Control: Git & GitHub
 
-📁 Project Structure
+## 📁 Project Structure
+
 ```css
 Project_1_Chatbot/
 ├── index.html
@@ -56,25 +57,31 @@ Project_1_Chatbot/
 ├── README.md
 └── assets/
     └── images/
-
-## 🤝 Contribution
+🤝 Contribution
 Contributions are welcome!
 
 Fork the repository 🍴
 
-Create a new branch: git checkout -b feature-name 🌿
+Create a new branch
 
-Commit your changes: git commit -m "Add feature" 💾
+bash
+Copy code
+git checkout -b feature-name
+Commit your changes
 
-Push to the branch: git push origin feature-name 📤
+bash
+Copy code
+git commit -m "Add feature"
+Push to the branch
 
-Open a pull request 🔃
+bash
+Copy code
+git push origin feature-name
+Open a Pull Request 🔃
 
 👩‍💻 Author
 Lipsita Khadgarai
 
 GitHub: lipsitakhadgarai
-
-Workshop: NextWave Workshop 🏫
-
-LinkedIn: Lipsita Khadgarai 🔗
+Workshop: NextWave Workshop
+LinkedIn: Lipsita Khadgarai
