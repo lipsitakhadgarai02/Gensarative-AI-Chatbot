@@ -57,31 +57,30 @@ Project_1_Chatbot/
 ├── README.md
 └── assets/
     └── images/
-🤝 Contribution
+    ```
+## 🤝 Contribution
 Contributions are welcome!
 
-Fork the repository 🍴
+- Fork the repository 🍴
 
-Create a new branch
+- Create a new branch
 
-bash
-Copy code
+```bash
 git checkout -b feature-name
-Commit your changes
-
-bash
-Copy code
+```
+- Commit your changes
+```bash
 git commit -m "Add feature"
-Push to the branch
-
-bash
-Copy code
+```
+- Push to the branch
+```bash
 git push origin feature-name
-Open a Pull Request 🔃
+```
+- Open a Pull Request 🔃
 
-👩‍💻 Author
-Lipsita Khadgarai
+## 👩‍💻 Author
+- Lipsita Khadgarai
 
-GitHub: lipsitakhadgarai
-Workshop: NextWave Workshop
-LinkedIn: Lipsita Khadgarai
+- GitHub: lipsitakhadgarai
+- Workshop: NextWave Workshop
+- LinkedIn: Lipsita Khadgarai
