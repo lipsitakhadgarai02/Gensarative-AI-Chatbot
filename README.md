@@ -81,7 +81,7 @@ git push origin feature-name
 
 ## 👩‍💻 Author
 - Lipsita Khadgarai
-- GitHub: [lipsitakhadgarai](https://github.com/lipsitakhadgarai)
+- GitHub: [lipsitakhadgarai02](https://github.com/lipsitakhadgarai02)
 - LinkedIn: [Lipsita Khadgarai](https://www.linkedin.com/in/lipsita-khadgarai/)
 - Workshop: NextWave Workshop
 
