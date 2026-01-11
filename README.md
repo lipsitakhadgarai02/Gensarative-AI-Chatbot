@@ -72,10 +72,6 @@ Push to the branch: git push origin feature-name 📤
 
 Open a pull request 🔃
 
-📄 License
-This project is licensed under the MIT License.
-See LICENSE for more information.
-
 👩‍💻 Author
 Lipsita Khadgarai
 
