@@ -52,7 +52,7 @@ Version Control: Git & GitHub
 📁 Project Structure
 css
 Copy code
-Project 1 [Chatbot]/
+Project_1_Chatbot/
 ├── index.html
 ├── style.css
 ├── script.js
