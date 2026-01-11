@@ -48,8 +48,7 @@ Type your queries in the input box and get responses from the chatbot 💡
 - Version Control: Git & GitHub
 
 ## 📁 Project Structure
-
-```css
+```
 Project_1_Chatbot/
 ├── index.html
 ├── style.css
@@ -57,14 +56,14 @@ Project_1_Chatbot/
 ├── README.md
 └── assets/
     └── images/
-    ```
+```
 ## 🤝 Contribution
+
 Contributions are welcome!
 
 - Fork the repository 🍴
 
 - Create a new branch
-
 ```bash
 git checkout -b feature-name
 ```
