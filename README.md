@@ -18,8 +18,9 @@ git clone https://github.com/lipsitakhadgarai/Gensarative-AI-Chatbot.git
 ```
 
 2.Navigate to the project directory:
-```powershell
+powershell
 Copy code
+```
 cd "C:\Lipsita's Program Files\WORKSHOP\Project 1 [Chatbot]"
 ```
 3.Install dependencies (if using Node.js):
