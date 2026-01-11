@@ -1,4 +1,6 @@
 # 🤖 Project 1: Chatbot
+🔗 **Live Project:**  
+[https://lipsitachatbot.ccbp.tech](https://lipsitachatbot.ccbp.tech)
 
 ## 🌟 Overview
 This project is a **Generative AI Chatbot** designed to answer questions and engage in casual conversations.  
@@ -79,7 +81,7 @@ git push origin feature-name
 
 ## 👩‍💻 Author
 - Lipsita Khadgarai
-
-- GitHub: lipsitakhadgarai
+- GitHub: [lipsitakhadgarai](https://github.com/lipsitakhadgarai)
+- LinkedIn: [Lipsita Khadgarai](https://www.linkedin.com/in/lipsita-khadgarai/)
 - Workshop: NextWave Workshop
-- LinkedIn: Lipsita Khadgarai
+
